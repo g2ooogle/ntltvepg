@@ -8,14 +8,14 @@
     <desc>MORNING @ HOME: (RPT)</desc>
     <category>General</category>
   </programme>
-  <programme start="20250818020000 +0459" stop="20250818040000 +0500" channel="ptvhomehd">
+  <programme start="20250818020000 +0500" stop="20250818040000 +0500" channel="ptvhomehd">
     <title>RISING PAKISTAN (RPT)</title>
     <desc>RISING PAKISTAN (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250818040000 +0500" stop="20250818053000 +0500" channel="ptvhomehd">
-    <title>STAR & STYLE (RPT)</title>
-    <desc>STAR & STYLE (AZADI SPECIAL) (RPT)</desc>
+    <title>STAR &amp; STYLE (RPT)</title>
+    <desc>STAR &amp; STYLE (AZADI SPECIAL) (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250818053000 +0500" stop="20250818060000 +0500" channel="ptvhomehd">
@@ -59,8 +59,8 @@
     <category>Drama</category>
   </programme>
   <programme start="20250818130500 +0500" stop="20250818140000 +0500" channel="ptvhomehd">
-    <title>STAR & STYLE (AZADI SPECIAL) (RPT)</title>
-    <desc>STAR & STYLE (AZADI SPECIAL) (RPT)</desc>
+    <title>STAR &amp; STYLE (AZADI SPECIAL) (RPT)</title>
+    <desc>STAR &amp; STYLE (AZADI SPECIAL) (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250818140000 +0500" stop="20250818143500 +0500" channel="ptvhomehd">
@@ -154,8 +154,8 @@
     <category>General</category>
   </programme>
   <programme start="20250819040000 +0500" stop="20250819053000 +0500" channel="ptvhomehd">
-    <title>STAR & STYLE (RPT)</title>
-    <desc>STAR & STYLE (AZADI SPECIAL) (RPT)</desc>
+    <title>STAR &amp; STYLE (RPT)</title>
+    <desc>STAR &amp; STYLE (AZADI SPECIAL) (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250819053000 +0500" stop="20250819060000 +0500" channel="ptvhomehd">
@@ -294,8 +294,8 @@
     <category>General</category>
   </programme>
   <programme start="20250820040000 +0500" stop="20250820053000 +0500" channel="ptvhomehd">
-    <title>STAR & STYLE (RPT)</title>
-    <desc>STAR & STYLE (RPT)</desc>
+    <title>STAR &amp; STYLE (RPT)</title>
+    <desc>STAR &amp; STYLE (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250820053000 +0500" stop="20250820060000 +0500" channel="ptvhomehd">
@@ -434,8 +434,8 @@
     <category>General</category>
   </programme>
   <programme start="20250821040000 +0500" stop="20250821053000 +0500" channel="ptvhomehd">
-    <title>STAR & STYLE (RPT)</title>
-    <desc>STAR & STYLE (RPT)</desc>
+    <title>STAR &amp; STYLE (RPT)</title>
+    <desc>STAR &amp; STYLE (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250821053000 +0500" stop="20250821060000 +0500" channel="ptvhomehd">
@@ -488,7 +488,7 @@
     <desc>GHAO (EP: 74) (RPT)</desc>
     <category>Drama</category>
   </programme>
-  <programme start="20250821143500 +0459" stop="20250821150000 +0500" channel="ptvhomehd">
+  <programme start="20250821143500 +0500" stop="20250821150000 +0500" channel="ptvhomehd">
     <title>PADHARO MARAY DES (EP: 43) (RPT)</title>
     <desc>PADHARO MARAY DES (EP: 43) (RPT)</desc>
     <category>General</category>
@@ -574,8 +574,8 @@
     <category>General</category>
   </programme>
   <programme start="20250822040000 +0500" stop="20250822053000 +0500" channel="ptvhomehd">
-    <title>STAR & STYLE (RPT)</title>
-    <desc>STAR & STYLE (RPT)</desc>
+    <title>STAR &amp; STYLE (RPT)</title>
+    <desc>STAR &amp; STYLE (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250822053000 +0500" stop="20250822060000 +0500" channel="ptvhomehd">
@@ -604,8 +604,8 @@
     <category>General</category>
   </programme>
   <programme start="20250822093000 +0500" stop="20250822100000 +0500" channel="ptvhomehd">
-    <title>CHILLI & SAAS (EP: 15) (RPT)</title>
-    <desc>CHILLI & SAAS (EP: 15) (RPT)</desc>
+    <title>CHILLI &amp; SAAS (EP: 15) (RPT)</title>
+    <desc>CHILLI &amp; SAAS (EP: 15) (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250822100000 +0500" stop="20250822120000 +0500" channel="ptvhomehd">
@@ -639,8 +639,8 @@
     <category>General</category>
   </programme>
   <programme start="20250822153000 +0500" stop="20250822160000 +0500" channel="ptvhomehd">
-    <title>CHILLI & SAAS (EP: 15) (RPT)</title>
-    <desc>CHILLI & SAAS (EP: 15) (RPT)</desc>
+    <title>CHILLI &amp; SAAS (EP: 15) (RPT)</title>
+    <desc>CHILLI &amp; SAAS (EP: 15) (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250822160000 +0500" stop="20250822170000 +0500" channel="ptvhomehd">
@@ -664,8 +664,8 @@
     <category>General</category>
   </programme>
   <programme start="20250822183000 +0500" stop="20250822190500 +0500" channel="ptvhomehd">
-    <title>CHILLI & SAAS (EP: 16) (RPT)</title>
-    <desc>CHILLI & SAAS (EP: 16) (RPT)</desc>
+    <title>CHILLI &amp; SAAS (EP: 16) (RPT)</title>
+    <desc>CHILLI &amp; SAAS (EP: 16) (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250822190500 +0500" stop="20250822195500 +0500" channel="ptvhomehd">
@@ -714,8 +714,8 @@
     <category>General</category>
   </programme>
   <programme start="20250823040000 +0500" stop="20250823053000 +0500" channel="ptvhomehd">
-    <title>STAR & STYLE (RPT)</title>
-    <desc>STAR & STYLE (RPT)</desc>
+    <title>STAR &amp; STYLE (RPT)</title>
+    <desc>STAR &amp; STYLE (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250823053000 +0500" stop="20250823060000 +0500" channel="ptvhomehd">
@@ -744,8 +744,8 @@
     <category>General</category>
   </programme>
   <programme start="20250823093000 +0500" stop="20250823100000 +0500" channel="ptvhomehd">
-    <title>CHILLI & SAAS (EP: 16) (RPT)</title>
-    <desc>CHILLI & SAAS (EP: 16) (RPT)</desc>
+    <title>CHILLI &amp; SAAS (EP: 16) (RPT)</title>
+    <desc>CHILLI &amp; SAAS (EP: 16) (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250823100000 +0500" stop="20250823120000 +0500" channel="ptvhomehd">
@@ -794,8 +794,8 @@
     <category>Religious</category>
   </programme>
   <programme start="20250823173000 +0500" stop="20250823180000 +0500" channel="ptvhomehd">
-    <title>CHILLI & SAAS (EP: 17) (RPT)</title>
-    <desc>CHILLI & SAAS (EP: 17) (RPT)</desc>
+    <title>CHILLI &amp; SAAS (EP: 17) (RPT)</title>
+    <desc>CHILLI &amp; SAAS (EP: 17) (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250823180000 +0500" stop="20250823183000 +0500" channel="ptvhomehd">
@@ -839,8 +839,8 @@
     <category>Drama</category>
   </programme>
   <programme start="20250823230000 +0500" stop="20250824000000 +0500" channel="ptvhomehd">
-    <title>CHILLI & SAAS (EP: 17) (RPT)</title>
-    <desc>CHILLI & SAAS (EP: 17) (RPT)</desc>
+    <title>CHILLI &amp; SAAS (EP: 17) (RPT)</title>
+    <desc>CHILLI &amp; SAAS (EP: 17) (RPT)</desc>
     <category>Drama</category>
   </programme>
   <programme start="20250824000000 +0500" stop="20250824020000 +0500" channel="ptvhomehd">
@@ -854,8 +854,8 @@
     <category>General</category>
   </programme>
   <programme start="20250824040000 +0500" stop="20250824053000 +0500" channel="ptvhomehd">
-    <title>STAR & STYLE (RPT)</title>
-    <desc>STAR & STYLE (RPT)</desc>
+    <title>STAR &amp; STYLE (RPT)</title>
+    <desc>STAR &amp; STYLE (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250824053000 +0500" stop="20250824060000 +0500" channel="ptvhomehd">
@@ -884,8 +884,8 @@
     <category>General</category>
   </programme>
   <programme start="20250824093000 +0500" stop="20250824100000 +0500" channel="ptvhomehd">
-    <title>CHILLI & SAAS (EP: 11) (RPT)</title>
-    <desc>CHILLI & SAAS (EP: 11) (RPT)</desc>
+    <title>CHILLI &amp; SAAS (EP: 11) (RPT)</title>
+    <desc>CHILLI &amp; SAAS (EP: 11) (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250824100000 +0500" stop="20250824120000 +0500" channel="ptvhomehd">
@@ -924,8 +924,8 @@
     <category>General</category>
   </programme>
   <programme start="20250824160000 +0500" stop="20250824170000 +0500" channel="ptvhomehd">
-    <title>CHILLI & SAAS (EP: 12) (RPT)</title>
-    <desc>CHILLI & SAAS (EP: 12) (RPT)</desc>
+    <title>CHILLI &amp; SAAS (EP: 12) (RPT)</title>
+    <desc>CHILLI &amp; SAAS (EP: 12) (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250824170000 +0500" stop="20250824173000 +0500" channel="ptvhomehd">
@@ -954,8 +954,8 @@
     <category>Drama</category>
   </programme>
   <programme start="20250824195500 +0500" stop="20250824210000 +0500" channel="ptvhomehd">
-    <title>STAR & STYLE -V (FRESH)</title>
-    <desc>STAR & STYLE -V (FRESH)</desc>
+    <title>STAR &amp; STYLE -V (FRESH)</title>
+    <desc>STAR &amp; STYLE -V (FRESH)</desc>
     <category>Drama</category>
   </programme>
   <programme start="20250824210000 +0500" stop="20250824211000 +0500" channel="ptvhomehd">
@@ -964,8 +964,8 @@
     <category>News</category>
   </programme>
   <programme start="20250824211000 +0500" stop="20250824213000 +0500" channel="ptvhomehd">
-    <title>CHILLI & SAAS (EP: 12) (RPT)</title>
-    <desc>CHILLI & SAAS (EP: 12) (RPT)</desc>
+    <title>CHILLI &amp; SAAS (EP: 12) (RPT)</title>
+    <desc>CHILLI &amp; SAAS (EP: 12) (RPT)</desc>
     <category>General</category>
   </programme>
   <programme start="20250824213000 +0500" stop="20250824220000 +0500" channel="ptvhomehd">
